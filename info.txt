@@ -2,3 +2,7 @@ TEYVAT
 You have arrived in Teyvat — a fantasy world where the seven elements flow and converge.
 In the distant past, the Archons granted mortals unique elemental abilities. With the help of such powers, people formed a bountiful homeland out of the wilderness. However, 500 years ago, the collapse of an ancient civilization turned the universe upside down...
 Though the calamity the world suffered has ceased, peace has yet to be restored.
+
+Mondstadt
+A city of freedom that lies in the northeast of Teyvat.
+From amongst mountains and wide-open plains, carefree breezes carry the scent of dandelions — a gift from the Anemo God, Barbatos — across Cider Lake to Mondstadt, which sits on an island in the middle of the lake.
